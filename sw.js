@@ -2,8 +2,7 @@ var cacheName = 'portfolio-pwa';
 var filesToCache = [
   '/',
   '/index.html',
-  '/css/style.css',
-  '/js/script.js'
+  '/css/style.css'
 ];
 
 /* Start the service worker and cache all of the app's content */
